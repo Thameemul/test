@@ -1,0 +1,13 @@
+C:\Users\Thameem\Desktop\Blazor\WebApplication3\obj\Debug\netstandard2.0\WebApplication3.csprojAssemblyReference.cache
+C:\Users\Thameem\Desktop\Blazor\WebApplication3\obj\Debug\netstandard2.0\staticwebassets\WebApplication3.StaticWebAssets.Manifest.cache
+C:\Users\Thameem\Desktop\Blazor\WebApplication3\obj\Debug\netstandard2.0\staticwebassets\WebApplication3.StaticWebAssets.xml
+C:\Users\Thameem\Desktop\Blazor\WebApplication3\obj\Debug\netstandard2.0\WebApplication3.RazorComponent.input.cache
+C:\Users\Thameem\Desktop\Blazor\WebApplication3\obj\Debug\netstandard2.0\RazorDeclaration\App.razor.g.cs
+C:\Users\Thameem\Desktop\Blazor\WebApplication3\obj\Debug\netstandard2.0\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\Users\Thameem\Desktop\Blazor\WebApplication3\obj\Debug\netstandard2.0\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\Users\Thameem\Desktop\Blazor\WebApplication3\obj\Debug\netstandard2.0\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\Thameem\Desktop\Blazor\WebApplication3\obj\Debug\netstandard2.0\RazorDeclaration\Pages\_Imports.razor.g.cs
+C:\Users\Thameem\Desktop\Blazor\WebApplication3\obj\Debug\netstandard2.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\Thameem\Desktop\Blazor\WebApplication3\obj\Debug\netstandard2.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\Thameem\Desktop\Blazor\WebApplication3\obj\Debug\netstandard2.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\Thameem\Desktop\Blazor\WebApplication3\obj\Debug\netstandard2.0\RazorDeclaration\_Imports.razor.g.cs
