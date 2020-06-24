@@ -8,11 +8,6 @@ namespace WebApplication3
         {
             CreateHostBuilder(args).Build().Run();
             
-            
-            
-            
-            
-            
         }
 
         public static IWebAssemblyHostBuilder CreateHostBuilder(string[] args) =>
