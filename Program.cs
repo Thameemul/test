@@ -7,6 +7,10 @@ namespace WebApplication3
         public static void Main(string[] args)
         {
             CreateHostBuilder(args).Build().Run();
+
+
+            
+            
             
         }
 
@@ -15,3 +19,4 @@ namespace WebApplication3
                 .UseBlazorStartup<Startup>();
     }
 }
+thameemul.anzari@ministrybrands.com
