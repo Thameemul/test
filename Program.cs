@@ -14,4 +14,3 @@ namespace WebApplication3
                 .UseBlazorStartup<Startup>();
     }
 }
-thameemul.anzari@ministrybrands.com
